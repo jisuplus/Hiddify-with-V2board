@@ -18,8 +18,8 @@ dependencies:
   # intl: ^0.20.2
   humanizer:
     git:
-      url: https://github.com/alex-relov/humanizer
-      ref: up-version
+      url: https://github.com/jisuplus/humanizer
+      ref: main
   # lucy_editor: ^1.0.5
   # re_highlight: ^0.0.3
   # json_editor_flutter: ^1.4.2
